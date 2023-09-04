@@ -21,6 +21,32 @@
             "email": "onileenoch@gmail.com",
             "job":"Accountant",
             "department": "Finance"
+        },
+
+        {
+            "id": "4",
+            "name": "Oresile Oluwatobi",
+            "email": "oresiletobi@gmail.com",
+            "job":"UI/UX Designing",
+            "department": "IT department"
+        },
+
+        {
+            "id": "5",
+            "name": "Alari Joshua",
+            "email": "alarijoshuai@gmail.com",
+            "job":"JavaScript Programmer",
+            "department": "IT department"
+        },
+
+        {
+            "id": "6",
+            "name": "Alari Victory",
+            "email": "alarivictory@gmail.com",
+            "job":"Reception",
+            "department": "Welfare department"
         }
+    
+
 
 ]
