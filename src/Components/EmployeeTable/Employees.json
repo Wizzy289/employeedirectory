@@ -1,0 +1,26 @@
+ [
+        {
+            "id": "1",
+            "name": "John Doe",
+            "email": "ghejeeee@gmail.com",
+            "job":"Software Engineer",
+            "department": "IT department"
+        },
+
+        {
+            "id": "2",
+            "name": "Wisdom Aghwaritoma",
+            "email": "wizdomitobaro@gmail.com",
+            "job":"React Developer",
+            "department": "IT department"
+        },
+
+        {
+            "id": "3",
+            "name": "Onile Enoch",
+            "email": "onileenoch@gmail.com",
+            "job":"Accountant",
+            "department": "Finance"
+        }
+
+]
